@@ -4,7 +4,7 @@
 
 3.cd key-history<br>
 4.python keydord.py<br> 
-#After open another Terminal<br> 
+<i>#After open another Terminal</i><br> 
 5.cd  key-history<br>
 6.cat  keyhis<br>
 This progam is store youre Key bord history on youre computre in keyhis file
