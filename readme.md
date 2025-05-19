@@ -1,10 +1,12 @@
-git clone https://github.com/TechnoCraftX/key-history.git<br>
+1.pip install pynput<br>
 
-cd key-history<br>
-python keydord.py<br> 
+2.git clone https://github.com/TechnoCraftX/key-history.git<br>
+
+3.cd key-history<br>
+4.python keydord.py<br> 
 #After open another Terminal<br> 
-cd  key-history<br>
-cat  keyhis<br>
+5.cd  key-history<br>
+6.cat  keyhis<br>
 This progam is store youre Key bord history on youre computre in keyhis file
 
 
