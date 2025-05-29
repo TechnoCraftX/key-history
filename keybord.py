@@ -22,3 +22,5 @@ if n=='S':
     keyloger()
 else:
     print("Cannot start")  
+#.strip() removes any leading or trailing spaces.
+#.upper() ensures the comparison works regardless of uppercase or lowercase input (e.g., "s" and "S" are treated the same)
