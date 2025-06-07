@@ -5,12 +5,12 @@
 3.pip install pynput<br>
 4.python keydord.py<br> 
 
-For linux 🐧
+<U>For linux 🐧</U><br>
 <i>#After open another Terminal</i><br> 
-.cd  key-history<br>
-6.cat  keyhis<br>
+<li>cd  key-history</li><br>
+<li>cat  keyhis</li><br>
 
-For Windows 
-rightclick on keyhis-> open
+<U>For Windows </U><br>
+<li>rightclick on keyhis-> open</li><br>
 
 
